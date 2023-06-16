@@ -1,11 +1,11 @@
-About r-longitudinal
-====================
+About r-longitudinal-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-longitudinal-feedstock/blob/main/LICENSE.txt)
 
 Home: http://strimmerlab.org/software/longitudinal/
 
 Package license: GPL (>= 3)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-longitudinal-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains general data structures and functions for longitudinal data with multiple variables, repeated measurements, and irregularly spaced time points. Also implements a shrinkage estimator of dynamical correlation and dynamical covariance.
 
